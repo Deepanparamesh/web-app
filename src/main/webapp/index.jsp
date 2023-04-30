@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello World! my new page</h2>
 </body>
 
 <div class="bgimg">
@@ -8,7 +8,7 @@
     <p>Logo</p>
   </div>
   <div class="middle">
-    <h1>COMING SOON</h1>
+    <h1>COMING SOON........</h1>
     <hr>
     <p>35 days</p>
   </div>
